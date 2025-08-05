@@ -142,7 +142,7 @@ pip install -r requirements.txt
 
 ```bash
 # Clone repository
-git clone https://github.com/ML_Stroke_Prediction_Project
+git clone https://github.com/LauraLechermann/ML_Stroke_Prediction_Project.git
 
 cd Stroke_Prediction_ML_Dev
 
